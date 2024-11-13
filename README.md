@@ -9,7 +9,7 @@ Aby rozpocząć pracę z tym projektem, potrzebujesz:
 - Zainstalowanego Postmana (zalecana wersja: najnowsza dostępna na stronie Postmana)
 - Konto na Postmanie (opcjonalnie, jeśli chcesz synchronizować kolekcje i dane testowe)
 - Środowisko API do przetestowania (serwer, na którym są dostępne endpointy API)
-- 
+
 ## Zawartość
 - Kolekcja testów Postman – Zawiera zestaw endpointów, na których wykonywane są testy.
 - Środowisko Postmana – Definiuje zmienne środowiskowe (takie jak URL serwera API, tokeny autoryzacyjne itp.), które są wykorzystywane w testach.
